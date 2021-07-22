@@ -61,7 +61,7 @@ entities: []
 slots: {}
 responses:
   utter_greet:
-  - text: Hey there! I'm a chatbot created using rasa I can answer your questions related to stock market,coronavirus and I can share some latest news and weather updates with you.Also I can find the available slots of covid vaccine in any city.
+  - text: Hii, I am Sishya an AI Assistant who speaks on behalf of my master Mr. Prasanth. Ask me questions about my master to know more about him !! hope you are doing well.
   utter_cheer_up:
   - image: https://i.imgur.com/nGF1K8f.jpg
     text: 'Here is something to cheer you up:'
@@ -72,7 +72,7 @@ responses:
   utter_goodbye:
   - text: Bye
   utter_iamabot:
-  - text: Hii, I am shishya an AI Assisant who speaks on behalf of my master Mr. Prasanth. Ask me questions about my master to know more about him !! hope you are doing well.
+  - text: Hii, I am Sishya an AI Assistant who speaks on behalf of my master Mr. Prasanth. Ask me questions about my master to know more about him !! hope you are doing well.
   utter_ask_name:
   - text: My master is call me Shishya
   utter_ask_edu:
