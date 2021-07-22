@@ -29,7 +29,6 @@ stories:
   steps:
   - intent: ask_skills
   - action: utter_ask_skills
- 
 - story: ask_about_yourself
   steps:
   - intent: ask_about_yourself
@@ -38,12 +37,10 @@ stories:
   steps:
   - intent: ask_insta_page
   - action: utter_ask_insta_page
-
 - story: ask_strength
   steps:
   - intent: ask_strength
   - action: utter_ask_strength
-
 - story: ask_lowest_point
   steps:
   - intent: ask_lowest_point
@@ -52,26 +49,15 @@ stories:
   steps:
   - intent: ask_project
   - action: utter_ask_project
-
 - story: ask_languages
   steps:
   - intent: ask_languages
   - action: utter_ask_languages
-  
 - story: ask_contact
   steps:
   - intent: ask_contact
   - action: utter_ask_contact
-
 - story: ask_github
   steps:
   - intent: ask_github
   - action: utter_ask_github
-  
-  
-  
-
-
-
-
-  
