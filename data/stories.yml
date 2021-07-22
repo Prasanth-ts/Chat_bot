@@ -17,3 +17,61 @@ stories:
   steps:
   - intent: bot_challenge
   - action: utter_iamabot
+- story: ask_name
+  steps:
+  - intent: ask_name
+  - action: utter_ask_name
+- story: ask_edu
+  steps:
+  - intent: ask_edu
+  - action: utter_ask_edu
+- story: ask_skills
+  steps:
+  - intent: ask_skills
+  - action: utter_ask_skills
+ 
+- story: ask_about_yourself
+  steps:
+  - intent: ask_about_yourself
+  - action: utter_ask_about_yourself
+- story: ask_insta_page
+  steps:
+  - intent: ask_insta_page
+  - action: utter_ask_insta_page
+
+- story: ask_strength
+  steps:
+  - intent: ask_strength
+  - action: utter_ask_strength
+
+- story: ask_lowest_point
+  steps:
+  - intent: ask_lowest_point
+  - action: utter_ask_lowest_point
+- story: ask_project
+  steps:
+  - intent: ask_project
+  - action: utter_ask_project
+
+- story: ask_languages
+  steps:
+  - intent: ask_languages
+  - action: utter_ask_languages
+  
+- story: ask_contact
+  steps:
+  - intent: ask_contact
+  - action: utter_ask_contact
+
+- story: ask_github
+  steps:
+  - intent: ask_github
+  - action: utter_ask_github
+  
+  
+  
+
+
+
+
+  
