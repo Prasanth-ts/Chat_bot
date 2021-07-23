@@ -74,29 +74,29 @@ responses:
   utter_iamabot:
   - text: Hii, I am Sishya an AI Assistant who speaks on behalf of my master Mr. Prasanth. Ask me questions about my master to know more about him !! hope you are doing well.
   utter_ask_name:
-  - text: My master is call me Shishya
+  - text: My master is calling me Sishya
   utter_ask_edu:
-  - text: "my master is 2018 batch Bcom passout from University of calicut. it is 3 year course my master take 5 year ( i am Proud of my Master ). Then my master \t\tstudied data science that is 6 month that's how he make me"
+  - text: my master is a 2018 batch Bcom pass out from the University of Calicut. it is a 3-year course my master take 5 years ( i am Proud of my Master ). Then my master studied data science that is 6 months that's how he makes me
   utter_ask_lowest_point:
   - text: "well..you know my master sometimes feel introvert,  sometimes i noticed that he feel shy to share his ideas group of people, i think he is not good in \t\t   his language. Now he is studying books,newspaper and watching short to improve his language, Now i feel he is improved"
   utter_ask_skills:
-  - text: "he have knowledge about Python, Machine Learning, Deep learning, Web Framework, AWS cloud, Penetartion testing,SQL,Big data. he is a quick and flexible \t\tlearner."
+  - text: He has knowledge about Python, Machine Learning, Deep learning, Web Framework, AWS cloud, Penetration testing, SQL, Big data. he is a quick and flexible learner.
   utter_ask_about_yourself:
   - text: He is typically a BCom graduate which was out of interest, unfortunately, due to personal circumstances, he had to take a degree in commerce. he realized that he had to change his domain and build his career in which he was passionate about, he made my mind and shifted to the technical domain. he had to face a lot of challenges during the transition period of his domain. First, he started by joining a course on CCNA (Cisco certified), CEH (Certified Ethical Hacking), and ADMA(Advance Diploma in multimedia Animation). Later he felt he was not stable in a particular technology so he decided to learn Data Science. He felt self-learning won't help to grow his knowledge and stretch his hands on the vast subject, so he moved on to Bangalore with a lot of hurdles on my way in search of his dream and joined an institute and completed a Data Science course, and did internship and projects on Data Science where he was assigned with projects where he had to do it from scratch. He is a passionate learner and grasper. He will never give up on his dreams.
   utter_ask_insta_page:
-  - text: I have an instagram page {https://www.instagram.com/i_am_prasanth_/}
+  - text: He has an Instagram page <https://www.instagram.com/i_am_prasanth_/>
   utter_ask_strength:
-  - text: He do not give up easily.He am a team player.He always try to learn from my mistakes and acknowledege them.He am consistent and persistent in his work.
+  - text: He does not give up easily. He is a team player. He always tries to learn from my mistakes and acknowledge them. He is consistent and persistent in his work.
   utter_ask_project:
-  - text: "To know more about his projects, you can refer the project section in website. {https://prasanthts.in/#works}There you will get all information in \t\tdetail."
+  - text: To know more about his projects, you can refer to the project section on the website. <https://prasanthts.in/#works>There you will get all information in detail.
   utter_ask_languages:
-  - text: "If u are asking about programming laguages he know Python, C (basic), C++(basic). If you are asking about speaking languages, he speak in English, \t\tMalayalam (mother tongue), Tamil."
+  - text: If u are asking about programming languages he knows Python, C (basic), C++(basic). If you are asking about speaking languages, he speaks in English, Malayalam (mother tongue), Tamil.
   utter_ask_contact:
   - text: 'You can email me on: prasanthts11@gmail.com Additonal contact details are available at contact section of the website.'
   utter_out_of_scope:
   - text: I have an instagram page @life.inscribed where I write about the realtiy of life, people and my observations.
   utter_ask_github:
-  - text: check the github profile {https://github.com/Prasanth-ts}
+  - text: check the GitHub profile <https://github.com/Prasanth-ts>
 actions: []
 forms:
   slot_pincode_form:
